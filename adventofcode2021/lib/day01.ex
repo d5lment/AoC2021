@@ -1,5 +1,7 @@
 defmodule Day01 do
-
+@moduledoc """
+  TODO Poner algo bien aqui.
+"""
   def counter_times_that_a_depth_measurement_increases do
     #1. obtener el conjunto de datos proporcionados
 
